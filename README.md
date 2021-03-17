@@ -8,5 +8,14 @@ The LambdaToolchain contains Multiple toolchains for developing applications.
 - LambdaC Interpreter
 - LuaLambda Network
 - Hundreds of MSVC, GNU GCC, And Unix compiler systems.
-- And Much more.
+- Much more.
+
+Learn more @ docs.lambda.ml :)
+
+--------------------
+# Docs.Lambda.ML
+## LambdaC
+LambdaC Is a language interpreter that helps with building specific applications and processors.
+
+LambdaC is not a compiled language, It is an interpreted & Cached language.
 
